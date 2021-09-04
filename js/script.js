@@ -5,7 +5,7 @@ const form = document.getElementById('form');
 const search = document.getElementById('search');
 
 
-getUser('ramrainn');
+
 
 
 async function getUser(username) {
